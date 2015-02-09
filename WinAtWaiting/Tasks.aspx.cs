@@ -4,6 +4,8 @@ using System.Linq;
 using System.Web;
 using System.Web.UI;
 using System.Web.UI.WebControls;
+//if you are getting an error under MySql, make sure have the class libraries downloaded
+//dev.mysql.com/downloads/connector/net/
 using MySql.Data.MySqlClient;
 using System.Data;
 
